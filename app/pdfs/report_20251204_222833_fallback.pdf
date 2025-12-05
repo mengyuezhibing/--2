@@ -1,0 +1,34 @@
+%PDF-1.4
+1 0 obj<< /Type /Catalog /Pages 2 0 R >>endobj
+2 0 obj<< /Type /Pages /Kids [3 0 R] /Count 1 >>endobj
+3 0 obj<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>endobj
+4 0 obj<< /Length 1000 >>stream
+BT /F1 12 Tf 100 700 Td (DATA ANALYSIS REPORT) Tj ET
+BT /F1 10 Tf 100 680 Td (FALLBACK VERSION) Tj ET
+BT /F1 10 Tf 100 660 Td (Generated: 2025-12-04 22:28:33) Tj ET
+BT /F1 10 Tf 100 640 Td (Total Items: 15) Tj ET
+BT /F1 8 Tf 100 620 Td (Item 1: 1 - ) Tj ET
+BT /F1 8 Tf 120 605 Td (Source: 1.com) Tj ET
+BT /F1 8 Tf 100 580 Td (Item 2: 2 - ) Tj ET
+BT /F1 8 Tf 120 565 Td (Source: 2.com) Tj ET
+BT /F1 8 Tf 100 540 Td (Item 3: 3 - ) Tj ET
+BT /F1 8 Tf 120 525 Td (Source: 3.com) Tj ET
+BT /F1 8 Tf 100 500 Td (Item 4: 4 - ) Tj ET
+BT /F1 8 Tf 120 485 Td (Source: 4.com) Tj ET
+BT /F1 8 Tf 100 460 Td (Item 5: 5 - ) Tj ET
+BT /F1 8 Tf 120 445 Td (Source: 5.com) Tj ET
+endstream
+endobj
+5 0 obj<< /Type /Font /Subtype /Type1 /Name /F1 /BaseFont /Helvetica >>endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000052 00000 n 
+0000000099 00000 n 
+0000000220 00000 n 
+0000000337 00000 n 
+trailer<< /Root 1 0 R /Size 6 >>
+startxref
+1020
+%%EOF
